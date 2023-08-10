@@ -31,3 +31,5 @@ knopkf.clicked.connect(winner)
 window.show()
 
 app.exec()
+
+коментар для завдання 
